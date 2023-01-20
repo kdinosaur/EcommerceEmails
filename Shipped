@@ -1,0 +1,939 @@
+Your order ${salesorder.memo} has been shipped
+ <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head><!--[if (gte mso 9)|(IE)]><xml><o:OfficeDocumentSettings><o:AllowPNG></o:AllowPNG><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="x-apple-disable-message-reformatting">
+<title></title>
+<style type="text/css">body {
+margin: 0 !important;
+padding: 0 !important;
+width: 100% !important;
+word-break: break-word;
+mso-line-height-rule: exactly;
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+table {
+border: 0;
+border-spacing: 0;
+border-collapse: collapse;
+}
+img {
+height: auto;
+outline: none;
+text-decoration: none;
+-ms-interpolation-mode: bicubic;
+}
+img:hover {
+opacity: 0.9 !important;
+}
+a {
+text-decoration: none;
+}
+p {
+margin: 0;
+}
+ul,
+ol {
+margin: 0 0 1em;
+}
+strong {
+font-weight: 700;
+}
+#outlook a {
+padding: 0;
+}
+.ReadMsgBody {
+width: 100%;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass td,
+.ExternalClass div {
+line-height: 100%;
+}
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+img.g-img+div {
+display: none !important;
+}
+.preheader {
+padding: 0;
+font-size: 0;
+display: none;
+max-height: 0;
+mso-hide: all;
+line-height: 0;
+color: transparent;
+height: 0;
+max-width: 0;
+opacity: 0;
+overflow: hidden;
+visibility: hidden;
+width: 0;
+}
+.star:hover a,
+.star:hover~.star a {
+color: #FFCF0F !important;
+}
+</style>
+<style type="text/css">@font-face {
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 400;
+src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xIIzI.woff2) format('woff2');
+}
+@font-face {
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 500;
+src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2) format('woff2');
+}
+@font-face {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2) format('woff2');
+}
+@font-face {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+src: local('Roboto Medium'), local('Roboto-Medium'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc4.woff2) format('woff2');
+}
+</style>
+<style type="text/css">@font-face {
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 400;
+src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xIIzI.woff2) format('woff2');
+}
+@font-face {
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 700;
+src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2) format('woff2');
+}
+@font-face {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2) format('woff2');
+}
+@font-face {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format('woff2');
+}
+</style>
+<style type="text/css">@font-face {
+font-family: 'Grand Hotel';
+font-style: normal;
+font-weight: 400;
+mso-font-alt: cursive;
+src: local('Grand Hotel'), local('GrandHotel-Regular'), url(https://fonts.gstatic.com/s/grandhotel/v7/7Au7p_IgjDKdCRWuR1azplQKGFw.woff2) format('woff2');
+}
+</style>
+<style type="text/css">@media only screen and (max-width:699px) {
+table.table-700,
+table.table-640,
+table.table-540,
+div.row {
+width: 100% !important;
+max-width: 100% !important;
+}
+table.halfRow,
+div.halfRow {
+width: 46% !important;
+max-width: 46% !important;
+}
+table.width48p,
+div.width48p {
+width: 48% !important;
+max-width: 48% !important;
+}
+table.width4p,
+div.width4p {
+width: 4% !important;
+max-width: 4% !important;
+}
+.mo-bg-reset {
+background-position: center center !important;
+background-size: cover !important;
+background-repeat: no-repeat !important;
+}
+.mo-none {
+mso-hide: all !important;
+display: none !important;
+}
+.mo-block {
+display: block !important;
+text-align: center !important;
+margin: 0 auto !important;
+}
+.mo-p-0 {
+padding: 0 !important;
+}
+.mo-pb-30 {
+padding-bottom: 30px !important;
+}
+.mo-pb-60 {
+padding-bottom: 60px !important;
+}
+.mo-pt-30 {
+padding-top: 30px !important;
+}
+.mo-pt-60 {
+padding-top: 60px !important;
+}
+.mo-h-0 {
+height: 0 !important;
+font-size: 0px !important;
+line-height: 0px !important;
+}
+.mo-h-30 {
+height: 30px !important;
+font-size: 30px !important;
+line-height: 30px !important;
+}
+.mo-h-60 {
+height: 60px !important;
+font-size: 60px !important;
+line-height: 60px !important;
+}
+.mo-border-none {
+border: none ! important;
+}
+.vertical-divider {
+height: 2px !important;
+width: 100% !important;
+}
+img.mo-img-full {
+width: 100% !important;
+}
+table.mo-center,
+td.mo-center,
+td.mo-center img {
+float: none !important;
+margin: 0 auto !important;
+}
+td.mo-text-center {
+text-align: center !important;
+}
+td.mo-px-25 {
+padding-left: 25px !important;
+padding-right: 25px !important;
+}
+table.mo-link td {
+width: 100% !important;
+display: block !important;
+text-align: center !important;
+}
+table.mo-link td a {
+display: block !important;
+text-align: center !important;
+padding-bottom: 15px !important;
+border-bottom: 2px solid #F1F1F1 !important;
+}
+td.mo-link {
+line-height: 20px !important;
+}
+td.mo-link a {
+display: block !important;
+text-align: center !important;
+padding-bottom: 15px !important;
+border-bottom: 2px solid #F1F1F1 !important;
+}
+}
+@media only screen and (max-width:480px) {
+table.table-380,
+div.row {
+width: 100% !important;
+max-width: 100% !important;
+}
+table.halfRow,
+div.halfRow {
+width: 100% !important;
+max-width: 100% !important;
+}
+.btn-full a {
+padding-right: 60px !important;
+padding-left: 60px !important;
+}
+.btn-l a {
+padding-right: 60px !important;
+padding-left: 60px !important;
+}
+.mo-row {
+width: 100% !important;
+max-width: 100% !important;
+}
+.mo-btn-full {
+width: 100% !important;
+float: none !important;
+margin: 0 auto !important;
+text-align: center !important;
+min-width: 100% !important;
+}
+.mo-font-50 {
+font-size: 50px !important;
+line-height: 60px !important;
+}
+.mo-font-100 {
+font-size: 100px !important;
+line-height: 110px !important;
+}
+}
+</style>
+</head><body style="mso-line-height-rule:exactly; word-break:break-word; -ms-text-size-adjust:100%; -webkit-text-size-adjust:100%; margin:0; padding:0; width:100%" width="100%">
+<center>
+<table align="center" cellpadding="0" cellspacing="0" style="background-color: #f9f9f9; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 100%; width: 100%;" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-700" style="background-color:#F9F9F9;border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:700px;width:700px;">
+<tbody>
+<tr>
+<td style="font-size:10px;height:10px;line-height:10px;"> </td>
+</tr>
+<tr>
+<td align="center" class="mo-px-25">
+<table align="center" cellpadding="0" cellspacing="0" class="table-640" style="border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:640px;width:640px;">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td align="right" class="mo-text-center" style="color: #939393; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 12px; font-weight: 500; letter-spacing: 1px; line-height: 22px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size:10px;height:10px;line-height:10px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" cellpadding="0" style="background-color: #f9f9f9; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 100%; width: 100%;" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-700" style="background-color:#FFFFFF;border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:700px;width:700px;">
+<tbody>
+<tr>
+<td style="font-size:30px;height:30px;line-height:30px;"> </td>
+</tr>
+<tr>
+<td align="center" class="mo-px-25">
+<table align="center" cellpadding="0" cellspacing="0" class="table-640" style="border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:640px;width:640px;">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td align="center" style="padding:0;padding-bottom:30px;"><a href="http://example.com/" style="text-decoration:none;"><img alt="CUBS Logo" src="https://4509996.secure.netsuite.com/core/media/media.nl?id=31529&c=4509996&h=MImrswN38cBgIl94sjcK2fJRRRWtHK_J8WetX5ReE0if7LC5" style="display: block; height: auto; outline: none; text-decoration: none; width: 250px;" width="250" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size:15px;height:15px;line-height:15px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<#if itemfulfillment.shipmethod != 'Pickup In Store'>
+
+<table align="center" cellpadding="0" cellspacing="0" style="background-color: #f9f9f9; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 100%; width: 100%;" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-700" style="background-color: #f0f0f0; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 700px; width: 700px;">
+<tbody>
+<tr>
+<td style="font-size: 21px; height: 21px; line-height: 21px;"> </td>
+</tr>
+<tr>
+<td align="center" class="mo-px-25">
+<table align="center" cellpadding="0" cellspacing="0" class="table-640" style="border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:640px;width:640px;">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td align="center" style="color: #000000; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 24px; font-weight: 600; letter-spacing: 1px; line-height: 34px; padding: 0px 0px 20px;">ORDER #${salesorder.tranid}<br />
+HAS SHIPPED!!</td>
+</tr>
+<tr>
+<td align="center" style="padding:0;padding-bottom:20px;">
+<table align="center" cellpadding="0" cellspacing="0" style="border: 0px; border-collapse: collapse; border-spacing: 0px; width: 100px; max-width: 100px;" width="80">
+<tbody>
+<tr>
+<td style="background-color: #000000; font-size: 2px; height: 2px; line-height: 2px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" style="color: #000000; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 14px; font-weight: 400; letter-spacing: 1px; line-height: 24px; padding: 0px 0px 40px;"><b>Tracking Information</b><br />
+<a href="${salesorder.trackingLink}" style="color: #087ca6;">${salesorder.linkedtrackingnumbers}</a></td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="mo-btn-full" style="border:0;border-collapse:collapse;border-spacing:0;">
+<tbody>
+<tr>
+<td align="center" style="display: block; background-color: transparent; border-color: #000000; border-width: 2px; border-style: solid;"><a href="${website.customerCenterUrl}" style="color: #000000; display: block; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 12px; font-weight: 600; letter-spacing: 2px; line-height: 16px; text-decoration: none; white-space: nowrap; padding: 12px 30px;">MANAGE YOUR ORDER</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 21px; height: 21px; line-height: 21px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</#if><#if itemfulfillment.shipmethod == 'Pickup In Store'>
+
+<table align="center" cellpadding="0" cellspacing="0" style="background-color: #f9f9f9; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 100%; width: 100%;" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-700" style="background-color: #f0f0f0; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 700px; width: 700px;">
+<tbody>
+<tr>
+<td style="font-size: 21px; height: 21px; line-height: 21px;"> </td>
+</tr>
+<tr>
+<td align="center" class="mo-px-25">
+<table align="center" cellpadding="0" cellspacing="0" class="table-640" style="border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:640px;width:640px;">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td align="center" style="color: #000000; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 24px; font-weight: 600; letter-spacing: 1px; line-height: 34px; padding: 0px 0px 20px;">ORDER #${salesorder.tranid}<br />
+READY FOR PICKUP</td>
+</tr>
+<tr>
+<td align="center" style="padding:0;padding-bottom:20px;">
+<table align="center" cellpadding="0" cellspacing="0" style="border: 0px; border-collapse: collapse; border-spacing: 0px; width: 100px; max-width: 100px;" width="80">
+<tbody>
+<tr>
+<td style="background-color: #000000; font-size: 2px; height: 2px; line-height: 2px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" style="color: #000000; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 14px; font-weight: 400; letter-spacing: 1px; line-height: 24px; padding: 0px 0px 40px;"><b><u>Store Pickup Details</u></b><br />
+<br />
+Please have your <b>Student ID</b> and your <b>Order Number</b> when coming to the store.</td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="mo-btn-full" style="border:0;border-collapse:collapse;border-spacing:0;">
+<tbody>
+<tr>
+<td align="center" style="display: block; background-color: transparent; border-color: #000000; border-width: 2px; border-style: solid;"><a href="${website.customerCenterUrl}" style="color: #000000; display: block; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 12px; font-weight: 600; letter-spacing: 2px; line-height: 16px; text-decoration: none; white-space: nowrap; padding: 18px 30px;">MANAGE YOUR ORDER</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 21px; height: 21px; line-height: 21px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</#if>
+
+<table align="center" cellpadding="0" style="background-color: #f9f9f9; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 100%; width: 100%;" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-700" style="background-color:#FFFFFF;border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:700px;width:700px;">
+<tbody>
+<tr>
+<td style="font-size:30px;height:30px;line-height:30px;"> </td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-640" style="border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:640px;width:640px;">
+<tbody>
+<tr>
+<td style="background-color:#F1F1F1;font-size:2px;height:2px;line-height:2px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size:30px;height:30px;line-height:30px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<#list itemfulfillment.item as itemline>
+
+<table align="center" cellpadding="0" cellspacing="0" style="background-color: #f9f9f9; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 100%; width: 100%;" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-700" style="background-color:#FFFFFF;border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:700px;width:700px;">
+<tbody>
+<tr>
+<td style="font-size: 10px; height: 10px; line-height: 10px;"> </td>
+</tr>
+<tr>
+<td align="center" class="mo-px-25">
+<table align="center" cellpadding="0" cellspacing="0" class="table-640" style="border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:640px;width:640px;">
+<tbody>
+<tr>
+<td align="center" style="font-size:0;"><!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" align="center" width="640"><tr><td width="160" valign="middle"><![endif]-->
+<div class="row" style="display:inline-block;max-width:160px;vertical-align:top;width:100%;">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr><#if (itemimages[itemline.itemkey])?has_content>
+<td align="left"><img alt="#" class="mo-img-full" src="${itemimages[itemline.itemkey]}" style="display: block; height: auto; outline: none; text-decoration: none; width: 100px; border-radius: 0px;" width="100" /></td>
+</tr>
+</#if>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td><td width="30" valign="middle"><![endif]-->
+
+<div class="row" style="display:inline-block;max-width:30px;vertical-align:top;width:100%;">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td style="font-size:30px;height:30px;line-height:30px;"> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td><td width="300" valign="middle"><![endif]-->
+
+<div class="row" style="display:inline-block;max-width:300px;vertical-align:top;width:100%;">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td class="mo-h-0" style="font-size:35px;height:35px;line-height:35px;"> </td>
+</tr>
+<tr><#if (itemurls[itemline.itemkey])?has_content && itemline.itemType != "Discount">
+<td align="left" class="mo-text-center" style="color: #000000; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 14px; font-weight: 400; letter-spacing: 2px; line-height: 24px; padding: 0px 0px 5px;"><a href="${itemurls[itemline.itemkey]}" style="color: #087ca6; font-size: 14px; line-height: 16px; text-decoration: none;">${itemline.custcol_csgscr_display_name}</a> <#else></td>
+<td align="left" class="mo-text-center" style="color: #000000; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 14px; font-weight: 400; letter-spacing: 2px; line-height: 24px; padding: 0px 0px 5px;">${itemline.custcol_csgscr_display_name}</td>
+</#if></tr>
+<#if itemline.itemType == "Discount">
+<tr>
+<td align="left" class="mo-text-center" style="color: #939393; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 14px; font-weight: 400; letter-spacing: 2px; line-height: 24px; padding: 0px 0px 5px;">Coupon code applied: ${itemline.amount}</td>
+</tr>
+</#if>
+<tr>
+<td align="left" class="mo-text-center" style="color: #000000; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 14px; font-weight: 400; letter-spacing: 2px; line-height: 24px; padding: 0px 0px 5px;"><#if itemline.quantity !=0 >Qty: ${itemline.quantity}</#if></td>
+</tr>
+<tr>
+<td align="left" class="mo-text-center" style="color: #939393; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 14px; font-weight: 400; letter-spacing: 2px; line-height: 24px; padding: 0px 0px 5px;">${itemline.options}</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td><td width="30" valign="middle"><![endif]-->
+
+<div class="row" style="display:inline-block;max-width:30px;vertical-align:top;width:100%;">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td style="font-size:30px;height:30px;line-height:30px;"> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td><td width="100" valign="middle"><![endif]-->
+
+<div class="row" style="display:inline-block;max-width:100px;vertical-align:top;width:100%;">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td class="mo-h-0" style="font-size:35px;height:35px;line-height:35px;"> </td>
+</tr>
+<tr>
+<td align="right" class="mo-text-center" style="color: #000000; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 14px; font-weight: 700; letter-spacing: 1px; line-height: 24px;">${itemline.amount}</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size:15px;height:15px;line-height:15px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" cellpadding="0" cellspacing="0" style="background-color: #f9f9f9; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 100%; width: 100%; z-index: 1;" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-700" style="background-color:#FFFFFF;border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:700px;width:700px;">
+<tbody>
+<tr>
+<td style="font-size: 20px; height: 20px; line-height: 20px;"> </td>
+</tr>
+<tr>
+<td align="center" class="mo-px-25">
+<table align="center" cellpadding="0" cellspacing="0" class="table-640" style="border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:640px;width:640px;">
+<tbody>
+<tr>
+<td style="background-color:#DDDDDD;font-size:1px;height:1px;line-height:1px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; height: 0px; line-height: 0px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</#list>
+
+<table align="center" cellpadding="0" cellspacing="0" style="background-color:#F9F9F9;border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:100%;width:100%;" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-700" style="background-color:#FFFFFF;border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:700px;width:700px;">
+<tbody>
+<tr>
+<td style="font-size: 0px; height: 0px; line-height: 0px;"> </td>
+</tr>
+<tr>
+<td align="center" class="mo-px-25">
+<table align="center" cellpadding="0" cellspacing="0" class="table-640" style="border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:640px;width:640px;">
+<tbody>
+<tr>
+<td style="background-color:#DDDDDD;font-size:1px;height:1px;line-height:1px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; height: 0px; line-height: 0px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" cellpadding="0" cellspacing="0" style="background-color: #f9f9f9; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 100%; width: 100%; z-index: 1;" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-700" style="background-color:#FFFFFF;border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:700px;width:700px;">
+<tbody>
+<tr>
+<td style="font-size: 11px; height: 11px; line-height: 11px;"> </td>
+</tr>
+<tr>
+<td align="center" class="mo-px-25">
+<table align="center" cellpadding="0" cellspacing="0" class="table-640" style="border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:640px;width:640px;">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td align="center" style="color: #000000; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 20px; font-weight: 500; letter-spacing: 1px; line-height: 30px;">Billing & Delivery</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 20px; height: 20px; line-height: 20px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" cellpadding="0" cellspacing="0" style="background-color: #f9f9f9; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 100%; width: 100%; z-index: 1;" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-700" style="background-color:#FFFFFF;border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:700px;width:700px;">
+<tbody>
+<tr>
+<td style="font-size: 5px; height: 5px; line-height: 5px;"> </td>
+</tr>
+<tr>
+<td align="center" class="mo-px-25">
+<table align="center" cellpadding="0" cellspacing="0" class="table-640" style="border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:640px;width:640px;">
+<tbody>
+<tr>
+<td align="center" style="font-size:0;"><!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" align="center" width="640"><tr><td width="305" valign="middle"><![endif]-->
+<div class="row" style="display:inline-block;max-width:305px;vertical-align:middle;width:100%;">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td align="center" class="mo-text-center" style="font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 14px; font-weight: 400; letter-spacing: 1px; line-height: 24px;"><u><b>Billing Address</b></u><br />
+${salesorder.billaddress}</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td><td width="30" valign="middle"><![endif]-->
+
+<div class="row" style="display:inline-block;max-width:30px;vertical-align:middle;width:100%;">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td style="font-size:10px;height:10px;line-height:10px;"> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td><td width="305" valign="middle"><![endif]-->
+
+<div class="row" style="display:inline-block;max-width:305px;vertical-align:middle;width:100%;">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td align="center" class="mo-text-center" style="color: #000000; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 14px; font-weight: 400; letter-spacing: 1px; line-height: 24px;"><b><u>Deliver To</u></b><br />
+${transaction.shipaddress}</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 10px; height: 10px; line-height: 10px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" cellpadding="0" cellspacing="0" style="background-color: #f9f9f9; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 100%; width: 100%; z-index: 1;" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-700" style="background-color:#FFFFFF;border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:700px;width:700px;">
+<tbody>
+<tr>
+<td style="font-size: 10px; height: 10px; line-height: 10px;"> </td>
+</tr>
+<tr>
+<td align="center" class="mo-px-25">
+<table align="center" cellpadding="0" cellspacing="0" class="table-640" style="border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:640px;width:640px;">
+<tbody>
+<tr>
+<td align="center" style="font-size:0;"><!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" align="center" width="640"><tr><td width="305" valign="middle"><![endif]-->
+<div class="row" style="display:inline-block;max-width:305px;vertical-align:middle;width:100%;">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td align="center" class="mo-text-center" style="font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 14px; font-weight: 400; letter-spacing: 1px; line-height: 24px;"><b><u>Payment Method</u></b><br />
+${salesorder.terms} ${salesorder.paymentmethod} ${salesorder.ccnumber}</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td><td width="30" valign="middle"><![endif]-->
+
+<div class="row" style="display:inline-block;max-width:30px;vertical-align:middle;width:100%;">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td style="font-size:10px;height:10px;line-height:10px;"> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td><td width="305" valign="middle"><![endif]-->
+
+<div class="row" style="display:inline-block;max-width:305px;vertical-align:middle;width:100%;">
+<table align="center" cellpadding="0" cellspacing="0" style="border:0;border-collapse:collapse;border-spacing:0;" width="100%">
+<tbody>
+<tr>
+<td align="center" class="mo-text-center" style="color: #000000; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 14px; font-weight: 400; letter-spacing: 1px; line-height: 24px;"><b><u>Delivery Method</u></b><br />
+${transaction.shipmethod}</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 21px; height: 21px; line-height: 21px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" cellpadding="0" cellspacing="0" style="background-color:#F9F9F9;border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:100%;width:100%;" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-700" style="background-color: #ffffff; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 700px; width: 700px;">
+<tbody>
+<tr>
+<td style="font-size: 10px; height: 10px; line-height: 10px;"> </td>
+</tr>
+<tr>
+<td align="center" class="mo-px-25">
+<table align="center" cellpadding="0" cellspacing="0" class="table-640" style="border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:640px;width:640px;">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="mo-btn-full" style="border:0;border-collapse:collapse;border-spacing:0;">
+<tbody>
+<tr>
+<td align="center" class="btn-l" style="background-color: transparent; display: block; border-color: #000000; border-width: 2px; border-style: solid;"><a href="${website.customerCenterUrl}" style="color: #000000; display: block; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 12px; font-weight: 600; letter-spacing: 1px; line-height: 22px; padding: 12px 30px; text-decoration: none; white-space: nowrap;">MANAGE YOUR ORDER</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 20px; height: 20px; line-height: 20px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: #f9f9f9; border: 0px; border-collapse: collapse; border-spacing: 0px;" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" class="table-700" style="background-color: #f4f4f4; border: 0px; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; max-width: 700px; width: 700px;">
+<tbody>
+<tr>
+<td style="font-size: 20px; height: 20px; line-height: 20px;"> </td>
+</tr>
+<tr>
+<td align="center" class="mo-px-25">
+<table align="center" cellpadding="0" cellspacing="0" class="table-640" style="border:0;border-collapse:collapse;border-spacing:0;margin:0 auto;max-width:640px;width:640px;">
+<tbody>
+<tr>
+<td align="center" class="mo-text-center" style="color: #000000; font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif; font-size: 14px; font-weight: 600; letter-spacing: 1px; line-height: 24px; padding: 0px 0px 30px;"><a href="${website.url}" style="color:#000000;text-decoration:none;">WEBSITE</a> <span class="mo-block">| </span><a href="${website.url}/contact-us" style="text-size-adjust: 100%; text-decoration: none; color: #000000;">CONTACT US</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size:60px;height:60px;line-height:60px;"> </td>
+</tr>
+</tbody>
+</table>
+</center>
+</body></html>
