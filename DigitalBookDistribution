@@ -1,0 +1,36 @@
+<p>Dear ${customer.firstname} ${customer.lastname}, </p>
+<p>Thank you for purchasing digital material. Your digital item is linked to the account: ${customer.email}. Please make sure to use this email when logging into Provider </p>
+<p>
+</p>
+<p>Your digital material may require additional steps to activate. Please review the list of items and follow any instructions.</p>
+<hr/>
+<#list requisitions.requisitions>
+<table>
+<thead>
+<tr>
+<th colspan="3">Item</th>
+<th colspan="6">Instructions</th>
+</tr>
+</thead>
+<tbody>
+<#items as requisition>
+<tr>
+<td colspan="3">${requisition.item.text}</td>
+<td colspan="6">
+<#if requisition.accessStatus.text = 'Error'>
+Please contact support
+<#elseif requisition.redeemUrl?has_content && requisition.redeemUrl?length gt 0>
+Visit <a href="${requisition.redeemUrl}">${requisition.redeemUrl}</a>
+<#elseif requisition.redeemInstructions?has_content && requisition.redeemInstructions?length gt 0>
+${requisition.redeemInstructions}
+<#else>
+Log into your account as ${customer.email} to view your material at Provider or Provider.
+</#if>
+</td>
+</tr>
+</#items>
+</tbody>
+</table>
+<#else>No digital items</#list>
+<p>Thank you,</p>
+<p>Store Name</p>
