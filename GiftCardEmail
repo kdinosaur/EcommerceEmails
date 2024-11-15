@@ -1,0 +1,108 @@
+
+
+<mjml>
+    <mj-head>
+        <mj-preview>
+            Your Digital Gift Card has arrived!
+        </mj-preview>
+        <mj-attributes>
+            <mj-text font-family="Helvetica" font-size="20px" align="center"/>
+        </mj-attributes>
+
+        <mj-attributes>
+                <mj-accordion border="3px" padding="3px" />
+                <mj-accordion-element icon-wrapped-url="https://www.example.com/Images/Email/accordion-closed.png" icon-unwrapped-url="https://www.example.com/Images/Email/accordion-open.png" icon-height="24px" icon-width="24px" />
+   
+                <mj-accordion-title font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" background-color="#fff" color="#031017" padding="15px" font-size="18px" />
+                <mj-accordion-text font-family="Open Sans, Helvetica, Arial, sans-serif" background-color="#fafafa" padding="15px" color="#505050" font-size="14px" />
+            </mj-attributes>
+      <mj-style>
+      
+        
+      </mj-style>
+        </mj-head>
+
+    <mj-body>
+        <mj-section background-color="#f9f9f9" />
+        <mj-section>
+            <mj-column>
+                <mj-image src="https://placecats.com/millie_neo/300/100" />
+        
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#f9f9f9">
+            <mj-column>
+                <mj-text font-size="30px" padding-bottom="30px">Thank you for your purchase!</mj-text>
+                <mj-divider width="66%" />
+                <!--<mj-text>Your Digital Gift Card information is below.</mj-text>-->
+                <!--<mj-text>$155</mj-text>-->
+            </mj-column>
+        </mj-section>
+
+      <mj-section background-color="#f9f9f9" background-url="https://www.example.com/Images/Email/gift-card.png" background-size="100%" background-repeat="no-repeat" background-position="center center">
+        <mj-column width="400px" >
+                          <!--<mj-text>Gift Card</mj-text>-->
+          <mj-text font-size="50px"> <mj-raw><span style="line-height: 600%"> $100</span> </mj-raw></mj-text>
+  
+        </mj-column>
+      </mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-text align="left">Gift Card Code:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column width="50%" border="1px dashed black" background-color="bisque">
+                <mj-text font-size="25px" align="center">CUBS_AUTH_CODE</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-button align="center" background-color="black" color="white" href="https://www.example.com" font-family="Arial, sans-serif" padding="20px 0 0 0" font-weight="bold" font-size="16px">Shop now</mj-button>
+
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="20px" background-color="#ffffff">
+            <mj-column background-color="#dededd">
+                <mj-accordion>
+                    <mj-accordion-element>
+                        <mj-accordion-title>Congratulations!</mj-accordion-title>
+                        <mj-accordion-text>
+                            <span style="line-height:20px">
+                              Your Gift Card is redeemable for merchandise at the book store <a href="www.example.com">www.example.com.</a>
+                            </span>
+                        </mj-accordion-text>
+                    </mj-accordion-element>
+                    <mj-accordion-element>
+                        <mj-accordion-title>Using Your Gift Card</mj-accordion-title>
+                        <mj-accordion-text>
+                            <span style="line-height:20px">
+                                This card may be used multiple times until value is fully depleted.  Present card at register when checking out or scratch off to reveal code to use online.
+                            </span>
+                        </mj-accordion-text>
+                    </mj-accordion-element>
+                  <mj-accordion-element>
+                        <mj-accordion-title>To Check Your Gift Card Balance</mj-accordion-title>
+                        <mj-accordion-text>
+                            <span style="line-height:20px">
+Visit registers at the Book Store or call.
+ <br></br>
+The Book Store is not responsible for lost or stolen cards. Cards are not redeemable for cash.
+
+                            </span>
+                        </mj-accordion-text>
+                    </mj-accordion-element>
+                </mj-accordion>
+            </mj-column>
+        </mj-section>
+      
+       <mj-section>
+            <mj-column>
+                <mj-text> <a href="https://www.example.com/">Website </a> |  <a href="https://www.example.com/contact-us">Contact Us </a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+
+</mjml>
